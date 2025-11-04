@@ -24,8 +24,7 @@ CSV for storing expense data
 
 Clone the repository:
 
-git clone https://github.com/your-username/family-expense-tracker.git
-cd family-expense-tracker
+git clone https://github.com/PalashMandot/Family-Expense-Tracker family-expense-tracker
 
 
 Install the required Python libraries:
